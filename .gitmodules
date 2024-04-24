@@ -1,0 +1,4 @@
+[submodule "TestPlugin"]
+	path = TestPlugin
+	url = https://github.com/cabal95/rock-test-plugin
+	branch = main
